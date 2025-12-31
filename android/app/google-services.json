@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "386964305464",
+    "project_id": "keystones-bbafa",
+    "storage_bucket": "keystones-bbafa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386964305464:android:a3af9b2fd66c8a029f18cd",
+        "android_client_info": {
+          "package_name": "com.example.google_keystone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs8HF8_jnsiL1Fk9GR7yQsACStyilTEMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
